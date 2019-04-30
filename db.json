@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "d053f214-64c1-4f8b-96cb-a410ea1a8b66",
+      "name": "Organization Name",
+      "telecoms": [
+        {
+          "system": "EMAIL",
+          "value": "site@example.com"
+        },
+        {
+          "system": "PHONE",
+          "value": "8162010001"
+        }
+      ],
+      "addresses": [
+        {
+          "text": "2800 Rockcreek Pkwy, Suite 1, Kansas City, MO, USA, 64117",
+          "lines": [
+            "2800 Rockcreek Pkwy",
+            "Suite 1"
+          ],
+          "city": "Kansas City",
+          "state": "MO",
+          "postalCode": "64117",
+          "country": "USA"
+        }
+      ],
+      "aliases": [
+        {
+          "type": "SOI",
+          "value": "4831952",
+          "system": "2.16.840.1.113883.4.6"
+        }
+      ],
+      "sourceIdentifiers": [
+        {
+          "id": "4831951",
+          "dataPartitionId": "8cbbffdc-acfe-11e7-abc4-cec278b6b50c"
+        }
+      ],
+      "createdAt": "2018-08-17T16:23:59Z",
+      "updatedAt": "2018-08-21T16:23:59Z"
+    }
+  ],
+  "totalResults": 1
+}
